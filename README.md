@@ -1,2 +1,2 @@
 # PluralSight-Login Page-Clone
-PluralSight HTML and CSS Clone
+PluralSight Clone Using HTML and CSS
